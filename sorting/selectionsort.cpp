@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//select the first value as min value and compare to the +1 index so j = i+1
+
 void swap(int *a, int *b)
 {
     int temp = *a;
