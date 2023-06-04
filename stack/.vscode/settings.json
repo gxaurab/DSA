@@ -2,7 +2,6 @@
     "files.associations": {
         "ostream": "cpp",
         "iostream": "cpp",
-        "ctime": "cpp",
         "random": "cpp"
     }
 }
